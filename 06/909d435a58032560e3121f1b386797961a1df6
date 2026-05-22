@@ -1,0 +1,19 @@
+src/example.txt
+  s_67375903764079::t_dfb8884472da78 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.5.1",
+  "base_commit_sha": "06909d435a58032560e3121f1b386797961a1df6",
+  "prompts": {},
+  "sessions": {
+    "s_67375903764079": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "821e3f45-f465-4e3b-864d-4a29a7fadcf1",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Nicolas Menard <nicolas@nicolasmenard.dev>"
+    }
+  }
+}
